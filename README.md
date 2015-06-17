@@ -1,4 +1,5 @@
 # iER Guide
 
-## Creating a Tempalte
-## Creating a Site
+Topics:
+
+- [Creating a Template](create_template/README.md)
