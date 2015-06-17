@@ -2,4 +2,4 @@
 
 The following is an image test to show how to start creating a new template:
 
-![Select 'Event Templates'](img/template-new.png)
+![Select 'Event Templates'](img/new-template.png)
