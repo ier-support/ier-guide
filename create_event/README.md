@@ -1,4 +1,4 @@
- # Events
+# Events
 
 The Event level is where you actual schedule the event. It’s during this step that you choose the capacity for the event, the event date and time, as well as a few other Event specific features.
  
@@ -14,7 +14,7 @@ After selecting Start Event Project, the following pop up window will appear.
 
 ![Select 'Events'](img/e2.png)
 
-n the Stakeholder box, enter in a valid Owner Number. The Project Name box is where you name the project; this is not the event title, but it will be auto populated into the event title field for project/title consistency.  There are no dependencies on an Event Project name verses an Event Title name.  It is strictly a matter of nomenclature preference.  Choose an Event Template. Then associate the Event with the Site that was created and uploaded for you. Finally, hit Submit.  
+In the Stakeholder box, enter in a valid Owner Number. The Project Name box is where you name the project; this is not the event title, but it will be auto populated into the event title field for project/title consistency.  There are no dependencies on an Event Project name verses an Event Title name.  It is strictly a matter of nomenclature preference.  Choose an Event Template. Then associate the Event with the Site that was created and uploaded for you. Finally, hit Submit.  
 
 After clicking Submit, the work flow process will take you to the Event Schedule page. This is the page where you choose the date, time, time zone, duration, and capacity of your event. When you have finished click Submit.
 
