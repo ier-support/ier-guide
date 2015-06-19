@@ -2,7 +2,7 @@
 
 The Event level is where you actual schedule the event. It’s during this step that you choose the capacity for the event, the event date and time, as well as a few other Event specific features.
  
- ### Start an Event Project 
+### Start an Event Project 
  
  After you have created your Event Template, it’s now time to build and schedule your first Event Project. 
  
