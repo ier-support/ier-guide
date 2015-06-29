@@ -1,5 +1,7 @@
 # Venues
 
+Venues are using if your event is taking place at an actual physical location, as opposed to online.
+
 Setting up Venues is a little more involved then setting up a standard event. You need two things before you get started: a Global Venue and an Offline Template. Without these two items, you won’t be able to proceed.
 
 The first thing you need to do is to create a Global Venue. Once you have logged into your Tenant account, click on the Admin icon at the top of your screen. Then click Venues.
