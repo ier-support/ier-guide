@@ -1,11 +1,11 @@
 # Events
 
 The Event level is where you actual schedule the event. It’s during this step that you choose the capacity for the event, the event date and time, as well as a few other Event specific features.
- 
-### Start an Event Project 
- 
- After you have created your Event Template, it’s now time to build and schedule your first Event Project. 
- 
+
+### Start an Event Project
+
+ After you have created your Event Template, it’s now time to build and schedule your first Event Project.
+
  From the Tenant Homepage select Start Event Project from the Actions section on the right.
 
 ![Select 'Events'](img/e1.png)
@@ -28,7 +28,7 @@ When you are finished editing the Content section, press Submit.
 
 ![Events](img/e4.png)
 
-The content can be formatted with a simple language called Markdown. Find out how to use it here:  [Markdown](http://markdowntutorial.com/) 	
+The content can be formatted with a simple language called Markdown. Find out how to use it here:  [Markdown](http://markdowntutorial.com/)
 
 ### Event Windows
 
@@ -46,24 +46,30 @@ iER supports a broad variety of web meeting providers.
 
 The most important note about Providers is that they must be declared within the Template initially. This means that if you forget to declare an audio and web provider in your Template, when you get to the Providers section of your event, you will have to stop. You can restart the process from the beginning after you have edited your Template.
 
-To add a WebEx Event or Meeting Center provider, select the appropriate provider. Add the WebEx site, not the entire link, just the unique part of the link. For instance if your link is, https://intercallcenters.webex.com   just add intercallcenters  The next step is to add your Meeting Number. 
+To add a WebEx Event Center or Meeting Center provider, select the appropriate provider. Add the WebEx site, not the entire link, just the unique part of the link. For instance, if your link is https://intercallcenters.webex.com,  just add `intercallcenters`.
 
-#### IMPORTANT: 
 
-Make sure there are no spaces in the meeting number, this is critical.
+![EC URL](img/ec-url.png)
+
+
+  The next step is to add your meeting number. **IMPORTANT**: be sure to **remove all spaces** from the meeting number, or it will not work correctly.
  
+
+![EC Meeting Number](img/ec-meetingnumber.png)
+
+
 The only thing left to do is add your Conference ID and Toll and Toll Free numbers.
 
 ### Providers (Adobe)
 
 To add an Adobe Connect provider, select Adobe Connect from the Provider dropdown first.
-Add Account ID, Event ID, and the Adobe Connect Server URL. 
+Add Account ID, Event ID, and the Adobe Connect Server URL.
 
 ![Events](img/e6.png)
 
-Adobe Connect Server is just the URL for the Adobe site. 
+Adobe Connect Server is just the URL for the Adobe site.
 
-The Account ID can be located in the resolved URL for the Adobe site after you log in. 
+The Account ID can be located in the resolved URL for the Adobe site after you log in.
 
 ![Events](img/e7.png)
 
@@ -79,7 +85,7 @@ Add an Event ID and a VEC ID.
 
 ![Events](img/e9.png)
 
-The Event ID can be found in IWS next to the event name, as seen below. 
+The Event ID can be found in IWS next to the event name, as seen below.
 
 ![Events](img/e10.png)
 
@@ -119,7 +125,7 @@ The next section is Registration Fields. Registration fields are set up the same
 
 ![Events](img/e16.png)
 
-To edit an existing registration field, highlight the desired field (red box above) and edit appropriately (blue box on right). 
+To edit an existing registration field, highlight the desired field (red box above) and edit appropriately (blue box on right).
 
 You can copy a field by clicking on the green box with a grey cross in it. Keep in mind that if the field is locked in the Template, you will not be able to edit it at the event level.
 
@@ -128,32 +134,32 @@ To add a new field, select the Add Field tab from the box on the right.
 ![Events](img/e17.png)
 
 After you have added a field, you will be taken back to the editor. From there you can label your question, mark it as required, and edit several other options.
- 
+
 When you are finished editing, click Back to Template from the menu options on the left.
- 
+
 Custom Event Fields are created exactly the same way as standard registration fields. Keep in mind that if you initially set up a Custom Event Field in you Template, you will be required to add it to your Event.
 
 ![Events](img/e18.png)
 
 ### Custom Fields
 
-This is where you will add the Contact Info for the event. Keep in mind that this information will be distributed throughout the site, so you will want to format it however you prefer. 
+This is where you will add the Contact Info for the event. Keep in mind that this information will be distributed throughout the site, so you will want to format it however you prefer.
 
 ![Events](img/e19.png)
 
 ### Prices
 
-The prices tab will only appear if you have activated Ecommerce on the account. Start by clicking the Add Price button. 
+The prices tab will only appear if you have activated Ecommerce on the account. Start by clicking the Add Price button.
 
 ![Events](img/e20.png)
 
-On this page you can set an Amount, give a Description, and set Starts At and Ends At dates/times for the price range. Click Submit when finished. 
+On this page you can set an Amount, give a Description, and set Starts At and Ends At dates/times for the price range. Click Submit when finished.
 
 ![Events](img/e21.png)
 
 #### NOTE:
- 
-If you click on the Prices tab and you just get a “Loading” page, double-check to make sure you have added Ecommerce credentials to the Site. 
+
+If you click on the Prices tab and you just get a “Loading” page, double-check to make sure you have added Ecommerce credentials to the Site.
 
 ### Notifications
 
@@ -161,19 +167,19 @@ To add or edit email notifications, click on Notifications from the menu options
 
 ![Events](img/e22.png)
 
-Selecting Update Notification will bring up the Transactional Notification window shown below. 
+Selecting Update Notification will bring up the Transactional Notification window shown below.
 
 You can disable notifications by clicking the green “Yes” under Enabled.
 
 ![Events](img/e23.png)
 
-The Review option is a handy feature. It allows you to send a preliminary copy of the event to a Stakeholder or peer before publishing. 
+The Review option is a handy feature. It allows you to send a preliminary copy of the event to a Stakeholder or peer before publishing.
 
 Click Start a Review on the right as shown below.
 
 ![Events](img/e24.png)
 
-A pop up window will appear titled Start a Review. The Review Instructions box can be used if you would like to include a message to your reviewer. 
+A pop up window will appear titled Start a Review. The Review Instructions box can be used if you would like to include a message to your reviewer.
 
 Add a Reviewer Email
 
@@ -191,11 +197,11 @@ Once you have selected Publish Event, the following pop up window will be displa
 
 ![Events](img/e27.png)
 
-Event projects can be in multiple stages of completion and will always have a The Event level is where you actual schedule the event. It’s during this step that you choose the capacity for the event, the event date and time, as well as a few other Event specific features. 
+Event projects can be in multiple stages of completion and will always have a The Event level is where you actual schedule the event. It’s during this step that you choose the capacity for the event, the event date and time, as well as a few other Event specific features.
 
 ### Event Details
 
-Event Details is a summary of all the different information regarding your event. You can make changes to your event from here as well. 
+Event Details is a summary of all the different information regarding your event. You can make changes to your event from here as well.
 
 Click the Events button at the top of your screen. You may then search for the title of your Event. You can also find the event in the Recently Selected Events section.
 
@@ -209,7 +215,7 @@ From the Notifications section you can check the status of the emails sent to yo
 
 ### Registrants
 
-From the Registrants section you can browse the individuals who have registered for your event. 
+From the Registrants section you can browse the individuals who have registered for your event.
 
 You can also manually Add a Registrant.
 
@@ -234,18 +240,3 @@ Once your event has been completed, you still to add the Recording Link for the 
 Choose whether or not you would like to Notify Registrants, add your Recording Link and any notes you may have. Then click Submit.
 
 ![Events](img/e34.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
