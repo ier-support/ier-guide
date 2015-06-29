@@ -46,7 +46,7 @@ iER supports a broad variety of web meeting providers.
 
 The most important note about Providers is that they must be declared within the Template initially. This means that if you forget to declare an audio and web provider in your Template, when you get to the Providers section of your event, you will have to stop. You can restart the process from the beginning after you have edited your Template.
 
-To add a WebEx Event Center or Meeting Center provider, select the appropriate provider. Add the WebEx site, not the entire link, just the unique part of the link. For instance, if your link is https://intercallcenters.webex.com,  just add `intercallcenters`.
+To add a WebEx Event Center or Meeting Center provider, select the appropriate provider. Add the unique part of the WebEx URL here, *but not the entire link*. For instance, if your URL is https://intercallcenters.webex.com,   just add `intercallcenters`.
 
 
 ![EC URL](img/ec-url.png)
