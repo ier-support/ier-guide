@@ -1,5 +1,11 @@
 # Events
 
+**Please Note**: the information on this page is also available in screencast format at the following URL:
+
+[Creating an Event](http://youtu.be/6-Y1kvQnZt8)
+
+---
+
 The Event level is where you actual schedule the event. It’s during this step that you choose the capacity for the event, the event date and time, as well as a few other Event specific features.
 
 ### Start an Event Project
@@ -46,7 +52,7 @@ iER supports a broad variety of web meeting providers.
 
 The most important note about Providers is that they must be declared within the Template initially. This means that if you forget to declare an audio and web provider in your Template, when you get to the Providers section of your event, you will have to stop. You can restart the process from the beginning after you have edited your Template.
 
-To add a WebEx Event Center or Meeting Center provider, select the appropriate provider. Add the unique part of the WebEx URL here, *but not the entire link*. For instance, if your URL is https://intercallcenters.webex.com,   just add `intercallcenters`.
+To add a WebEx Event Center or Meeting Center provider, select the appropriate provider. Add the unique part of the WebEx URL here, *but not the entire link*. For instance, if your URL is https://intercallcenters.webex.com,  just add `intercallcenters`.
 
 
 ![EC URL](img/ec-url.png)
