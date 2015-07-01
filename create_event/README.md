@@ -1,5 +1,7 @@
 # Events
 
+[Return to Main Page](https://github.com/reg-support/reg-guide/blob/master/README.md)
+
 **Please Note**: the information on this page is also available in screencast format at the following URL: [Creating an Event](http://youtu.be/6-Y1kvQnZt8)
 
 ---
@@ -262,3 +264,7 @@ Once your event has been completed, you still to add the Recording Link for the 
 Choose whether or not you would like to Notify Registrants, add your Recording Link and any notes you may have. Then click Submit.
 
 ![Events](img/e34.png)
+
+---
+
+[Return to Main Page](https://github.com/reg-support/reg-guide/blob/master/README.md)
