@@ -1,8 +1,8 @@
 # Sites
 
-**Please Note**: the information on this page is also available in screencast format at the following URL:
+[Return to Main Page](https://github.com/reg-support/reg-guide/blob/master/README.md)
 
-[Creating a Site](https://youtu.be/7PdzqX0ZDDk)
+**Please Note**: most of the information on this page is also available in screencast format at the following URL: [Creating a Site](https://youtu.be/7PdzqX0ZDDk)
 
 ---
 
@@ -67,3 +67,8 @@ Selecting Change Identity Settings has several options to choose from. Under Ide
 If you select Always Required, the users will have to login to their account before they see anything on the site. If you select Required Before Registration, the client will only have to login immediately before registering.
 
 We won’t be addressing the other Identity settings in this guide as they pertain to Single Sign On. This feature is more of a Developer feature and will be addressed in the Developer’s Guide.
+
+
+---
+
+[Return to Main Page](https://github.com/reg-support/reg-guide/blob/master/README.md)

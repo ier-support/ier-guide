@@ -1,6 +1,10 @@
 # Venues
 
-Venues are using if your event is taking place at an actual physical location, as opposed to online.
+[Return to Main Page](https://github.com/reg-support/reg-guide/blob/master/README.md)
+
+---
+
+Venues are used when your event is taking place at an actual physical location, as opposed to online.
 
 Setting up Venues is a little more involved then setting up a standard event. You need two things before you get started: a Global Venue and an Offline Template. Without these two items, you won’t be able to proceed.
 
@@ -35,3 +39,8 @@ To add a Venue to the event, you must first make sure that you select the approp
 Type in the name of your newly created Venue and click Submit.
 
 ![Create a Venue](img/v7.png)
+
+
+---
+
+[Return to Main Page](https://github.com/reg-support/reg-guide/blob/master/README.md)

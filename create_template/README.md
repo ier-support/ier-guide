@@ -1,5 +1,7 @@
 # Templates
 
+[Return to Main Page](https://github.com/reg-support/reg-guide/blob/master/README.md)
+
 **Please note**: most of the information on this page is also available in screencast format at the following URL:
 [Creating a Template](http://youtu.be/nT31vyTaxM0)
 
@@ -193,3 +195,8 @@ Select Publish Event Template to publish or Abandon Event Template if you plan o
 ![Event Templates](img/t28.png)
 
 Keep in mind that after you publish your Template, in order to make edits you will need to Unpublish it first. The Unpublish feature can be found in the Publishing section of the Template Editor. It appears after you have initially published your Template.
+
+
+---
+
+[Return to Main Page](https://github.com/reg-support/reg-guide/blob/master/README.md)
