@@ -1,6 +1,6 @@
 # Templates
 
-**Please note**: most of the information on this page is also available in screencast format at the following URL:
+`Please note`: most of the information on this page is also available in screencast format at the following URL:
 [Creating a Template](http://youtu.be/nT31vyTaxM0)
 
 ---
@@ -9,7 +9,6 @@ Templates can be set up in a variety of ways. The purpose of a Template is to be
 
 In order to schedule events, you must first have a published Event Template. Nearly all of the functionality that is available within Events can set up within a Template.  Additionally, a majority of the settings can be locked down or made optional.
 
----
 
 ## Creating a Template
 
@@ -29,7 +28,6 @@ After creating the initial Template, you will be dropped into the Template Detai
 
 ![Event Templates](img/t3.png)
 
----
 
 ## Event Scheduling
 
@@ -43,9 +41,8 @@ The following screen shots show your options upon clicking either Action.
 
 ![Event Templates](img/t6.png)
 
-**IMPORTANT** - The Event/Audio Providers section is where you would create Meeting Providers for your Template. This is a key step because there is no way to set up a provider within an Event.
+`IMPORTANT!` The Event/Audio Providers section is where you would create Meeting Providers for your Template. This is a key step because there is no way to set up a provider within an Event.
 
----
 
 ## Event/Audio Providers
 
@@ -59,7 +56,6 @@ After clicking "Set Event Providers", the following pop up will be displayed.
 
 Select the appropriate Meeting and Audio Providers and click Submit.
 
----
 
 ## Registration Fields
 
@@ -85,7 +81,6 @@ After you have selected a new registration question type, you will be taken back
 
 When you are finished editing, click Back to Template from the menu options on the left.
 
----
 
 ## Waitlisting
 
@@ -122,7 +117,6 @@ Waitlist must be enabled at the event level from the Event Schedule Window as we
 
 To use Stakeholder Screening, select the option from the Waitlist menu shown above. This will add every registrant to the Waitlist automatically. Each registrant will have to be approved using the same method as shown in the Waitlist instructions above.
 
----
 
 ## Notifications
 
@@ -146,7 +140,6 @@ Selecting Update Notification will bring up the Transactional Notification windo
 
 Both adding and editing notifications allows you to set the timing of the notification and make aesthetic and formatting changes.
 
----
 
 ## Registration Restrictions
 
@@ -164,7 +157,6 @@ Changing the Visibility of an event from Public to Private, basically means that
 
 Allowing Guest Registration makes it possible for people to register more registrants than just themselves. For instance, if the Guest Registration limit was set at 3 registrations, in addition to themselves, the registrant could also register 3 other people. The same registration questions that the registrant has to fill out for themselves will need to be filled out for their guests as well.
 
----
 
 ## Ecommerce Settings
 
@@ -188,7 +180,6 @@ The following window pop-up will appear:
 
 Just toggle the button underneath Ecommerce Enabled to turn ecommerce on for your event.
 
----
 
 ## Publishing
 
