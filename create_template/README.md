@@ -1,6 +1,6 @@
 # Templates
 
-`Please note`: most of the information on this page is also available in screencast format at the following URL:
+**Please note**: most of the information on this page is also available in screencast format at the following URL:
 [Creating a Template](http://youtu.be/nT31vyTaxM0)
 
 ---
@@ -41,7 +41,7 @@ The following screen shots show your options upon clicking either Action.
 
 ![Event Templates](img/t6.png)
 
-`IMPORTANT!` The Event/Audio Providers section is where you would create Meeting Providers for your Template. This is a key step because there is no way to set up a provider within an Event.
+**IMPORTANT!** The Event/Audio Providers section is where you would create Meeting Providers for your Template. This is a key step because there is no way to set up a provider within an Event.
 
 
 ## Event/Audio Providers
