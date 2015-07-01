@@ -41,10 +41,10 @@ The following screen shots show your options upon clicking either Action.
 
 ![Event Templates](img/t6.png)
 
-**IMPORTANT!** The Event/Audio Providers section is where you would create Meeting Providers for your Template. This is a key step because there is no way to set up a provider within an Event.
-
 
 ## Event/Audio Providers
+
+**IMPORTANT!** - The Event/Audio Providers section is where you would create Meeting Providers for your Template. This is a key step because there is *no way* to set up a provider within an Event.
 
 Select "Set Event Providers" to choose which Providers you will allow on your event.
 
@@ -67,11 +67,14 @@ Similar to all other registration platforms we work with, you can add or subtrac
 
 Existing registration fields are displayed on the left while the Edit and Add options are displayed on the right.
 
+**IMPORTANT!** - The "Email Address" field defaults to *not required*, and since it is locked, it cannot be overridden at the event level. In almost all cases, you will want this field to be required for registration, so unless otherwise needed, go ahead and check the "Required" checkbox (shown in the screenshot below).
+
+
 ![Event Templates](img/t10.png)
 
 To edit an existing registration field, highlight the desired field (red box above) and edit appropriately (blue box on right).
 
-You can copy a field by simply clicking on the green box with a gray cross in it. To add a new field, select the Add Field tab from the box on the right.
+You can copy a field by simply clicking on the green box with a gray cross in it. To add a new field, select the "Add Field" tab from the box on the right.
 
 ![Event Templates](img/t11.png)
 
@@ -79,7 +82,7 @@ After you have selected a new registration question type, you will be taken back
 
 ![Event Templates](img/t12.png)
 
-When you are finished editing, click Back to Template from the menu options on the left.
+When you are finished editing, click "Back to Template" from the menu options on the left.
 
 
 ## Waitlisting
@@ -88,7 +91,7 @@ The next tab is Waitlist Settings. After you have clicked on the tab, select Set
 
 ![Event Templates](img/t13.png)
 
-Then toggle the button under Settings Available. It will turn to green as shown below.
+Then toggle the button under "Settings Available." It will turn to green as shown below.
 
 ![Event Templates](img/t14.png)
 
