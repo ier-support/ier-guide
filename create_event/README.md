@@ -4,12 +4,16 @@
 
 **Please Note**: the information on this page is also available in screencast format at the following URL: [Creating an Event](http://youtu.be/6-Y1kvQnZt8)
 
+# Table of Contents
+
+[Start an Event Project](#start_project)
+
 ---
 
 The Event level is where you actual schedule the event. It’s during this step that you choose the capacity for the event, the event date and time, as well as a few other Event specific features.
 
 
-## Start an Event Project
+## <a name="start_project"></a>Start an Event Project
 
  After you have created your Event Template, it’s now time to build and schedule your first Event Project.
 
