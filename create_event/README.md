@@ -59,6 +59,8 @@ When you are finished editing the Content section, press Submit.
 
 The content can be formatted with a simple language called Markdown. Find out how to use it here:  [Markdown](http://markdowntutorial.com/)
 
+[Back to Top](#top)
+
 ## <a name="3"></a>Event Windows
 
 The next menu option is Event Windows. This section controls the registration and attendance windows. These options can be set and locked within the Template or you may edit them as you are setting up the event.
@@ -69,11 +71,13 @@ The next menu option is Event Windows. This section controls the registration an
 
 Click Submit when finished.
 
+[Back to Top](#top)
 
 ## <a name="4"></a>Web Event Providers
 
 iER supports a broad variety of web meeting providers.
 
+[Back to Top](#top)
 
 ### <a name="5"></a>Providers (WebEx)
 
@@ -93,6 +97,7 @@ To add a WebEx Event Center or Meeting Center provider, select the appropriate p
 
 The only thing left to do is add your Conference ID and Toll and Toll Free numbers.
 
+[Back to Top](#top)
 
 ### <a name="6"></a>Providers (Adobe Connect)
 
@@ -111,6 +116,7 @@ The Event ID can be found at the very end of the Adobe Attendee URL, as seen bel
 
 ![Events](img/e8.png)
 
+[Back to Top](#top)
 
 ### <a name="7"></a>Providers (IWS)
 
@@ -128,6 +134,7 @@ The VEC ID can be found at the top of any page within the VEC.
 
 ![Events](img/e11.png)
 
+[Back to Top](#top)
 
 ### <a name="8"></a>Providers (Live Meeting)
 
@@ -143,6 +150,7 @@ Meeting ID and Meeting Password (Attendee Entry Code) can both be located on the
 
 ![Events](img/e13.png)
 
+[Back to Top](#top)
 
 ## <a name="9"></a>Presenters
 
@@ -156,6 +164,7 @@ All fields are required when setting up a Presenter.
 
 After you have finished, click Submit.
 
+[Back to Top](#top)
 
 ## <a name="10"></a>Registration Fields
 
@@ -179,6 +188,7 @@ Custom Event Fields are created exactly the same way as standard registration fi
 
 ![Events](img/e18.png)
 
+[Back to Top](#top)
 
 ## <a name="11"></a>Custom Fields
 
@@ -186,6 +196,7 @@ This is where you will add the Contact Info for the event. Keep in mind that thi
 
 ![Events](img/e19.png)
 
+[Back to Top](#top)
 
 ## <a name="12"></a>Prices
 
@@ -199,6 +210,7 @@ On this page you can set an Amount, give a Description, and set Starts At and En
 
 **Note**: If you click on the Prices tab and you just get a “Loading” page, double-check to make sure you have added Ecommerce credentials to the Site.
 
+[Back to Top](#top)
 
 ## <a name="13"></a>Notifications
 
@@ -226,6 +238,7 @@ If you would like to send the Review to more than one person, press Enter on you
 
 ![Events](img/e25.png)
 
+[Back to Top](#top)
 
 ## <a name="14"></a>Publishing
 
@@ -239,6 +252,7 @@ Once you have selected Publish Event, the following pop up window will be displa
 
 Event projects can be in multiple stages of completion and will always have a The Event level is where you actual schedule the event. It’s during this step that you choose the capacity for the event, the event date and time, as well as a few other Event specific features.
 
+[Back to Top](#top)
 
 ## <a name="15"></a>Event Details
 
@@ -248,6 +262,7 @@ Click the Events button at the top of your screen. You may then search for the t
 
 ![Events](img/e28.png)
 
+[Back to Top](#top)
 
 ## <a name="16"></a>Notification Metrics
 
@@ -255,6 +270,7 @@ From the Notifications section you can check the status of the emails sent to yo
 
 ![Events](img/e29.png)
 
+[Back to Top](#top)
 
 ## <a name="17"></a>Registrants
 
@@ -268,6 +284,7 @@ Select the registrant’s Time zone, First and Last name, and Email. Then click 
 
 ![Events](img/e31.png)
 
+[Back to Top](#top)
 
 ## <a name="18"></a>History
 
@@ -275,6 +292,7 @@ Lastly, the History section lets you see details about the different changes tha
 
 ![Events](img/e32.png)
 
+[Back to Top](#top)
 
 ## <a name="19"></a>Add Recording Link
 
@@ -287,5 +305,6 @@ Choose whether or not you would like to Notify Registrants, add your Recording L
 ![Events](img/e34.png)
 
 ---
+[Back to Top](#top)
 
 [Return to Main Page](https://github.com/reg-support/reg-guide/blob/master/README.md)
