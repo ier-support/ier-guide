@@ -4,6 +4,11 @@
 
 **Please Note**: most of the information on this page is also available in screencast format at the following URL: [Creating a Site](https://youtu.be/7PdzqX0ZDDk)
 
+# <a name="top">Table of Contents
+
+- [Creating a Site](#1)
+- [Site Settings](#2)
+
 ---
 
  Sites are used to set separate events and provide a custom look for those sites.
@@ -13,7 +18,7 @@
  A high volume customer has multiple contacts, some of whom need to have the ability to separate their events. Some of them also need to include special information on the registration page that wouldn’t apply to other contacts. In this case, we would build that contact a site.
 
 
-### Creating a Site
+### <a name="1"></a>Creating a Site
 
 
 Once you are at your Tenant Admin Page, a Site will need to be created to display the events. You can create multiple sites if necessary.
@@ -45,7 +50,7 @@ Once you click Submit you will be taken back to the Site List. This is where you
 This link will take you to an individual catalog page.
 
 
-### Site Settings
+### <a name="2"></a>Site Settings
 
 
 If you would like to edit your newly created site, click on the Site Name from the Site List page. This takes you to the Site Settings Page:
