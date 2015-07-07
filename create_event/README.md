@@ -47,7 +47,9 @@ In the Stakeholder box, enter in a valid Owner Number. The Project Name box is w
 After clicking Submit, the work flow process will take you to the Event Schedule page. This is the page where you choose the date, time, time zone, duration, and capacity of your event. When you have finished click Submit.
 
 ![Events](img/e3.png)
+
 [Back to Top](#top)
+===================
 
 ## <a name="2"></a>Event Content
 
