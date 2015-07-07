@@ -49,7 +49,6 @@ After clicking Submit, the work flow process will take you to the Event Schedule
 ![Events](img/e3.png)
 
 [Back to Top](#top)
-===================
 
 ## <a name="2"></a>Event Content
 
