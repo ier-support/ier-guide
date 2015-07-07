@@ -5,6 +5,17 @@
 **Please note**: most of the information on this page is also available in screencast format at the following URL:
 [Creating a Template](http://youtu.be/nT31vyTaxM0)
 
+# <a name="top">Table of Contents
+
+- [Creating a Template](#1)
+- [Event Scheduling](#2)
+- [Event/Audio Providers](#3)
+- [Registration Fields](#4)
+- [Waitlisting](#5)
+- [Notifications](#6)
+- [Registration Restrictions](#7)
+- [Ecommerce Settings](#8)
+- [Publishing](#9)
 ---
 
 Templates can be set up in a variety of ways. The purpose of a Template is to be able to set up the majority of your Event only one time.
@@ -12,7 +23,7 @@ Templates can be set up in a variety of ways. The purpose of a Template is to be
 In order to schedule events, you must first have a published Event Template. Nearly all of the functionality that is available within Events can set up within a Template.  Additionally, a majority of the settings can be locked down or made optional.
 
 
-## Creating a Template
+## <a name="1"></a>Creating a Template
 
 To create a new template, start at the Tenant Homepage and click the Admin button at the top of your screen. Then select Event Templates as shown below. From the Template Search page select Create Event Template located on the right.
 
@@ -30,8 +41,9 @@ After creating the initial Template, you will be dropped into the Template Detai
 
 ![Event Templates](img/t3.png)
 
+[Back to Top](#top)
 
-## Event Scheduling
+## <a name="2"></a>Event Scheduling
 
 The Template can be customized via the Menu options on the left. The scheduling section is where you can set the Registration Window and the Attendance Window defaults. Simply choose one of the corresponding Actions on the right to complete your task.
 
@@ -43,8 +55,9 @@ The following screen shots show your options upon clicking either Action.
 
 ![Event Templates](img/t6.png)
 
+[Back to Top](#top)
 
-## Event/Audio Providers
+## <a name="3"></a>Event/Audio Providers
 
 **IMPORTANT!** - The Event/Audio Providers section is where you would create Meeting Providers for your Template. This is a key step because there is *no way* to set up a provider within an Event.
 
@@ -58,8 +71,9 @@ After clicking "Set Event Providers", the following pop up will be displayed.
 
 Select the appropriate Meeting and Audio Providers and click Submit.
 
+[Back to Top](#top)
 
-## Registration Fields
+## <a name="4"></a>Registration Fields
 
 The Registration Fields section is where you can customize individual registration fields. Click "Setup Registration Fields."
 
@@ -70,7 +84,6 @@ Similar to all other registration platforms we work with, you can add or subtrac
 Existing registration fields are displayed on the left while the Edit and Add options are displayed on the right.
 
 **IMPORTANT!** - The "Email Address" field defaults to *not required*, and since it is locked, it cannot be overridden at the event level. In almost all cases, you will want this field to be required for registration, so unless otherwise needed, go ahead and check the "Required" checkbox (shown in the screenshot below).
-
 
 ![Event Templates](img/t10.png)
 
@@ -86,8 +99,9 @@ After you have selected a new registration question type, you will be taken back
 
 When you are finished editing, click "Back to Template" from the menu options on the left.
 
+[Back to Top](#top)
 
-## Waitlisting
+## <a name="5"></a>Waitlisting
 
 The next tab is Waitlist Settings. After you have clicked on the tab, select Set Waitlist Settings on the right under Actions.
 
@@ -122,8 +136,9 @@ Waitlist must be enabled at the event level from the Event Schedule Window as we
 
 To use Stakeholder Screening, select the option from the Waitlist menu shown above. This will add every registrant to the Waitlist automatically. Each registrant will have to be approved using the same method as shown in the Waitlist instructions above.
 
+[Back to Top](#top)
 
-## Notifications
+## <a name="6"></a>Notifications
 
 To add or edit email notifications, click on Notifications from the menu options on the left.
 
@@ -145,8 +160,9 @@ Selecting Update Notification will bring up the Transactional Notification windo
 
 Both adding and editing notifications allows you to set the timing of the notification and make aesthetic and formatting changes.
 
+[Back to Top](#top)
 
-## Registration Restrictions
+## <a name="7"></a>Registration Restrictions
 
 The next section is the Registration Restrictions tab. From this page, click on Set Registration Restrictions from the actions tab on the right.
 
@@ -162,8 +178,9 @@ Changing the Visibility of an event from Public to Private, basically means that
 
 Allowing Guest Registration makes it possible for people to register more registrants than just themselves. For instance, if the Guest Registration limit was set at 3 registrations, in addition to themselves, the registrant could also register 3 other people. The same registration questions that the registrant has to fill out for themselves will need to be filled out for their guests as well.
 
+[Back to Top](#top)
 
-## Ecommerce Settings
+## <a name="8"></a>Ecommerce Settings
 
 The final section before publishing is Ecommerce Settings. It’s here that Ecommerce can be activated. Before doing this, you need to make sure that the Global Ecommerce credentials have been added to the site.
 
@@ -185,8 +202,9 @@ The following window pop-up will appear:
 
 Just toggle the button underneath Ecommerce Enabled to turn ecommerce on for your event.
 
+[Back to Top](#top)
 
-## Publishing
+## <a name="9"></a>Publishing
 
 Finally, after making any adjustments to the Template, you must publish it so that it can be used to create and guide the individual event creation process.
 
@@ -196,6 +214,7 @@ Select Publish Event Template to publish or Abandon Event Template if you plan o
 
 Keep in mind that after you publish your Template, in order to make edits you will need to Unpublish it first. The Unpublish feature can be found in the Publishing section of the Template Editor. It appears after you have initially published your Template.
 
+[Back to Top](#top)
 
 ---
 
