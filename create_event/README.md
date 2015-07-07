@@ -6,43 +6,25 @@
 
 # Table of Contents
 
-[Start an Event Project](#1)
-
-[Event Content](#2)
-
-[Event Windows](#3)
-
-[Web Event Providers](#4)
-
-[Providers (WebEx)](#5)
-
-[Providers (Adobe Connect)](#6)
-
-[Providers (IWS)](#7)
-
-[Providers (Live Meeting)](#8)
-
-[Presenters](#9)
-
-[Registration Fields](#10)
-
-[Custom Fields](#11)
-
-[Prices](#12)
-
-[Notifications](#13)
-
-[Publishing](#14)
-
-[Event Details](#15)
-
-[Notification Metrics](#16)
-
-[Registrants](#17)
-
-[History](#18)
-
-[Add Recording Link](#19)
+-[Start an Event Project](#1)
+-[Event Content](#2)
+-[Event Windows](#3)
+-[Web Event Providers](#4)
+-[Providers (WebEx)](#5)
+-[Providers (Adobe Connect)](#6)
+-[Providers (IWS)](#7)
+-[Providers (Live Meeting)](#8)
+-[Presenters](#9)
+-[Registration Fields](#10)
+-[Custom Fields](#11)
+-[Prices](#12)
+-[Notifications](#13)
+-[Publishing](#14)
+-[Event Details](#15)
+-[Notification Metrics](#16)
+-[Registrants](#17)
+-[History](#18)
+-[Add Recording Link](#19)
 ---
 
 The Event level is where you actual schedule the event. It’s during this step that you choose the capacity for the event, the event date and time, as well as a few other Event specific features.
