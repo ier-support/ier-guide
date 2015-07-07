@@ -16,6 +16,7 @@
 - [Registration Restrictions](#7)
 - [Ecommerce Settings](#8)
 - [Publishing](#9)
+
 ---
 
 Templates can be set up in a variety of ways. The purpose of a Template is to be able to set up the majority of your Event only one time.
