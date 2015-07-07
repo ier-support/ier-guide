@@ -27,7 +27,7 @@
 - [Recording Link](#19)
 
 ---
-The Event level is where you actual schedule the event. It’s during this step that you choose the capacity for the event, the event date and time, as well as a few other Event specific features.
+The Event level is where you actual schedule the event. It is during this step that you choose the capacity for the event, the event date and time, as well as a few other Event specific features.
 
 
 ## <a name="1"></a>Start an Event Project
