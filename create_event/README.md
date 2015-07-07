@@ -4,7 +4,7 @@
 
 **Please Note**: the information on this page is also available in screencast format at the following URL: [Creating an Event](http://youtu.be/6-Y1kvQnZt8)
 
-# Table of Contents
+# <a name="top">Table of Contents
 
 - [Start an Event Project](#1)
 - [Event Content](#2)
@@ -25,8 +25,8 @@
 - [Registrants](#17)
 - [History](#18)
 - [Add Recording Link](#19)
----
 
+---
 The Event level is where you actual schedule the event. It’s during this step that you choose the capacity for the event, the event date and time, as well as a few other Event specific features.
 
 
@@ -47,7 +47,7 @@ In the Stakeholder box, enter in a valid Owner Number. The Project Name box is w
 After clicking Submit, the work flow process will take you to the Event Schedule page. This is the page where you choose the date, time, time zone, duration, and capacity of your event. When you have finished click Submit.
 
 ![Events](img/e3.png)
-
+[Back to Top](#top)
 
 ## <a name="2"></a>Event Content
 
