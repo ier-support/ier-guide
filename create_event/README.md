@@ -24,7 +24,7 @@
 - [Notification Metrics](#16)
 - [Registrants](#17)
 - [History](#18)
-- [Add Recording Link](#19)
+<!-- - [Add Recording Link](#19) -->
 
 ---
 The Event level is where you actual schedule the event. It’s during this step that you choose the capacity for the event, the event date and time, as well as a few other Event specific features.
